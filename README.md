@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 # Credit-risk-analysis
+>>>>>>> 83adc05d7c3aee86a7324dcc678c64aef870af28
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
@@ -46,4 +49,12 @@ Fit and score the LogisticRegression and RandomForestClassifier models on the sc
 
 ### References
 
+<<<<<<< HEAD
+LendingClub (2019-2020) _Loan Stats_. Retrieved from: [https://resources.lendingclub.com/](https://resources.lendingclub.com/)
+
+- - -
+
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
 LendingClub (2019-2020) _Loan Stats_. Retrieved from: [https://resources.lendingclub.com/](https://resources.lendingclub.com/
+>>>>>>> 83adc05d7c3aee86a7324dcc678c64aef870af28
